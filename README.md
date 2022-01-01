@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonyedick
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Full Stack development and AI
-- 💞️ I’m looking to collaborate on Front End Development projects.
+- 💞️ I’m looking to collaborate on Finteresting projects
 - 📫 How to reach me ...
 
 <!---
