@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonyedick
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Full Stack development and AI
+- 🌱 I’m currently learning Full Stack development and carrying out MSc research on Blockchain Technology in Real estate.
 - 💞️ I’m looking to collaborate on opensource projects, code reviews and volunteer dev roles.
 - 📫 How to reach me ...
 
