@@ -7,7 +7,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa being a benefitiary of the DeveCareer Tech Training Program [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa being a benefitiary of the DeveCareer Tech Training Program [School of Software Engineering](https://altschoolafrica.com/schools/engineering) 2023.
 - 🌱 I’m currently learning JavaScript, Reactjs, Nextjs and NodeJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, entry-level and Junior-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior or Mid-level).
