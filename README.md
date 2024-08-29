@@ -7,7 +7,6 @@ I'm a Content Creator,  who currently works as a Senior Software Engineer at [Bo
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently wraping up the Backend Engineering training at AltSchool Africa, being a benefitiary of the DevCareer Tech Training Program [School of Software Engineering](https://altschoolafrica.com/schools/engineering) 2023.
 - 🌱 I’m currently learning Serverless technology and NodeJs.
 - 😊 Are you looking for help with projects, do you have information on hackathons, internships, Junior-level and Intermediate-level opportunities? Please reach out.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior or Mid-level).
