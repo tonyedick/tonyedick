@@ -6,8 +6,7 @@ I'm a Content Creator,  who currently works as a Senior Software Engineer at [Bo
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 🌱 I’m currently learning Serverless technology and NodeJs.
+- 🌱 I’m currently learning deep stuff on AWS.
 - 😊 Are you looking for help with projects, do you have information on hackathons, internships, Junior-level and Intermediate-level opportunities? Please reach out.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior or Mid-level).
 - 📫 You can contact me by emailing mailto:djoeton@gmail.com.
