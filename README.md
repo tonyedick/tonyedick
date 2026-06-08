@@ -6,9 +6,9 @@ I'm a Software Engineer at [Sojilearn](https://sojilearn.com). I'm curiously dra
 
 **Here's a quick summary about me**:
 
-- 🌱 I’m currently learning Machine Learning and AI.
+- 🌱 I’m currently learning Machine Learning and AI through real world projects
 - 😊 Are you looking for help with projects, do you have information on Intermediate-level or Senior-level opportunities? Please reach out.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Mid-level or Senior-level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, Fullstack or UI Engineer (Mid-level or Senior-level).
 - 📫 You can contact me by emailing mailto:djoeton@gmail.com.
 
 ---
